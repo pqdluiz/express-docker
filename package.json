@@ -6,7 +6,7 @@
   "author": "Luiz Lima",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "commit": "git-cz"
   },
   "dependencies": {
