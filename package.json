@@ -1,0 +1,17 @@
+{
+  "name": "express-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pqdluiz/express-docker.git",
+  "author": "Luiz Lima",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "commit": "git-cz"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "git-cz": "^4.8.0",
+    "nodemon": "^2.0.15"
+  }
+}
